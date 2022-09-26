@@ -34,12 +34,26 @@
     background-color: red;
 }
 
+.bg-white {
+    background-color: white;
+}
+
 .avatar_image {
     background-color: white;
     height: 350px;
 }
 
 .cover_texts {
+    background-color: red;
+    height: 250px;
+}
+
+.portfolio_back {
+    background-color: blue;
+    height: 150px;
+}
+
+.portfolio_image {
     background-color: red;
     height: 250px;
 }
