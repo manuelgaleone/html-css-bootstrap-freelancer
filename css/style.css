@@ -7,7 +7,16 @@
 
 /*General Settings*/
 .container_80 {
+    margin: auto;
     width: 80%;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
 }
 
 /*Header*/
@@ -26,4 +35,31 @@
     background-color: white;
     width: 600px;
     height: 35px;
+}
+
+.margin_left_right_auto {
+    margin: 0 auto;
+}
+
+/*Main*/
+.bg_blue {
+    background-color: blue;
+}
+
+.avatar_image {
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    display: block;
+}
+
+.cover_texts {
+    background-color: red;
+    height: 250px;
+    width: 750px;
+}
+
+.portfolio_container {
+    background-color: white;
+    height: 500px;
 }
