@@ -48,7 +48,7 @@
     height: 250px;
 }
 
-.portfolio_back {
+.portfolio_title {
     background-color: blue;
     height: 150px;
 }
@@ -56,4 +56,20 @@
 .portfolio_image {
     background-color: red;
     height: 250px;
+}
+
+.about_title {
+    background-color: white;
+    height: 150px;
+}
+
+.column_text {
+    background-color: white;
+    height: 75px;
+}
+
+.download_button {
+    height: 30px;
+    background-color: white;
+    width: 100px;
 }
