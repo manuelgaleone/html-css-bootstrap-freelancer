@@ -8,7 +8,6 @@
 }
 
 /*Header*/
-
 .logo {
     background-color: white;
     width: 250px;
@@ -82,4 +81,15 @@
 .contact_form {
     height: 550px;
     background-color: red;
+}
+
+.menu_footer {
+    background-color: white;
+    height: 100px;
+}
+
+.copyright_text {
+    height: 50px;
+    width: 250px;
+    background-color: white;
 }
