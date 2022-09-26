@@ -1,5 +1,29 @@
+/*Common Settings*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/*General Settings*/
+.container_80 {
+    width: 80%;
+}
+
+/*Header*/
+.main_header {
+    background-color: red;
+    
+}
+
+.logo {
+    background-color: white;
+    width: 250px;
+    height: 35px;
+}
+
+.nav {
+    background-color: white;
+    width: 600px;
+    height: 35px;
 }
