@@ -1,24 +1,4 @@
-/*Common Settings*/
-/*
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-*/
-
-.debug {
-    height: 100px;
-    background-color: bisque;
-    border: 1px solid red;
-}
-
 /*General Settings*/
-.container_80 {
-    margin: 0 auto;
-    max-width: 1140px;
-}
-
 .d_flex {
     display: flex;
 }
@@ -28,10 +8,6 @@
 }
 
 /*Header*/
-.main_header {
-    background-color: red;
-    
-}
 
 .logo {
     background-color: white;
@@ -54,19 +30,16 @@
     background-color: blue;
 }
 
+.bg_red {
+    background-color: red;
+}
+
 .avatar_image {
     background-color: white;
     height: 350px;
-    width: 500px;
 }
 
 .cover_texts {
     background-color: red;
     height: 250px;
-    width: 750px;
-}
-
-.portfolio_container {
-    background-color: white;
-    height: 500px;
 }
