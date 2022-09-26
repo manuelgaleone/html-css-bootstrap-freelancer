@@ -1,14 +1,22 @@
 /*Common Settings*/
+/*
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+*/
+
+.debug {
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid red;
+}
 
 /*General Settings*/
 .container_80 {
     margin: 0 auto;
-    width: 80%;
+    max-width: 1140px;
 }
 
 .d_flex {
