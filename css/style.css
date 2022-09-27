@@ -56,12 +56,25 @@
     background-color: red;
 }
 
-.bg-white {
+.bg_white {
     background-color: white;
+}
+
+.bg_black {
+    background-color: black;
 }
 
 .color_white {
     color: white;
+}
+
+.card_image {
+    max-width: 100%;
+    
+}
+
+.color_black {
+    color: black;
 }
 
 .avatar_image {
