@@ -112,13 +112,29 @@
     width: 100px;
 }
 
-.menu_footer {
-    background-color: white;
-    height: 100px;
-}
-
 .copyright_text {
     height: 50px;
     width: 250px;
     background-color: white;
+}
+
+.menu_footer_text {
+    font-size: 25px;
+
+}
+
+.social_icon {
+    font-size: 35px;
+    display: block;
+}
+
+.vertical_align_middle {
+    vertical-align: middle;
+}
+
+.square_social {
+    width: 75px;
+    height: 75px;
+    border: 1px solid white;
+    border-radius: 50%;
 }
