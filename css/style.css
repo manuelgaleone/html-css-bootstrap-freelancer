@@ -81,6 +81,10 @@
     width: 300px;
 }
 
+.border_bottom {
+    border: 1px solid black;
+}
+
 .rectangle_divisor {
     height: 5px;
     background-color: white;
@@ -102,24 +106,10 @@
     height: 150px;
 }
 
-.column_text {
-
-}
-
 .download_button {
     height: 30px;
     background-color: white;
     width: 100px;
-}
-
-.contact_title {
-    background-color: blue;
-    height: 150px;
-}
-
-.contact_form {
-    height: 550px;
-    background-color: red;
 }
 
 .menu_footer {
