@@ -124,7 +124,6 @@
 
 .menu_footer_text {
     font-size: 25px;
-
 }
 
 .social_icon {
@@ -141,4 +140,24 @@
     height: 75px;
     border: 1px solid white;
     border-radius: 50%;
+}
+
+.divisor_section {
+    width: 100%;
+}
+
+@media screen and (max-width:992px) {
+
+    .divisor_section {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+
+    .divisor_section {
+        width: 100%;
+    }
+
 }
