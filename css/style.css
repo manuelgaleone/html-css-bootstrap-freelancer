@@ -15,12 +15,6 @@
     font-size: 20px;
 }
 
-.nav {
-    background-color: white;
-    width: 600px;
-    height: 35px;
-}
-
 .margin_left_right_auto {
     margin: 0 auto;
 }
@@ -30,8 +24,32 @@
     background-color: #2C3E50;
 }
 
+.align_items_center {
+    align-items: center;
+}
+
+.filter_invert {
+    filter: invert;
+}
+
+.divisor_title {
+    font-size: 75px;
+}
+
 .bg_green {
     background-color: #1ABC9C;
+}
+
+.margin_left_auto {
+    margin-left: auto;
+}
+
+.margin_right_auto {
+    margin-right: auto;
+}
+
+.fa-star {
+    font-size: 35px;
 }
 
 .bg_red {
@@ -47,13 +65,13 @@
 }
 
 .avatar_image {
-    background-color: white;
-    height: 350px;
+    width: 300px;
 }
 
-.cover_texts {
-    background-color: red;
-    height: 250px;
+.rectangle_divisor {
+    height: 5px;
+    background-color: white;
+    width: 300px;
 }
 
 .portfolio_title {
