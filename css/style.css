@@ -9,9 +9,10 @@
 
 /*Header*/
 .logo {
-    background-color: white;
-    width: 250px;
-    height: 35px;
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 20px;
 }
 
 .nav {
@@ -26,7 +27,11 @@
 
 /*Main*/
 .bg_blue {
-    background-color: blue;
+    background-color: #2C3E50;
+}
+
+.bg_green {
+    background-color: #1ABC9C;
 }
 
 .bg_red {
@@ -35,6 +40,10 @@
 
 .bg-white {
     background-color: white;
+}
+
+.color_white {
+    color: white;
 }
 
 .avatar_image {
